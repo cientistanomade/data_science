@@ -7,7 +7,7 @@
 # Portfólio de Data Science
 
 Atualmente atuo na área de produtos bancários e previdência, onde meu objetivo é contribuir no desenvolvimento e manutenção do sistema de Bloqueio Judicial, construir ETLs, aplicar conhecimento de estatística e ciência de dados para explorar, preparar e analisar os dados, além de criar dashboards. 
-Decidi criar este portfólio para compartilhar projetos de ciência de dados na área financeira, saúde, marketing, e notebooks sobre alguns assuntos que estudo no dia a dia.  
+Decidi criar este portfólio para compartilhar projetos de ciência de dados na área financeira, saúde, marketing e notebooks sobre alguns assuntos que estudo no dia a dia.  
 
 * [LinkedIn](https://www.linkedin.com/in/canaam-cientistadedados/)
 * [Blog](www.cientistanomade.com.br)
