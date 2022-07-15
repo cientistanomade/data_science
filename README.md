@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/Author-cientistadedados-red.svg)](https://www.linkedin.com/in/canaam-cientistadedados/)
+[![author](https://img.shields.io/badge/Author-cientistanomade-red.svg)](https://www.linkedin.com/in/canaam-cientistadedados/)
 [![](https://img.shields.io/badge/Python-3.7+-brightgreen.svg)](https://www.python.org/downloads/release/python-370/)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://perso.crans.org/besson/LICENSE.html)
 [![contributions welcome](https://img.shields.io/badge/Contributions-welcome-blue.svg?style=flat)](https://github.com/cientistanomade/portfolio-data-science/issues)
