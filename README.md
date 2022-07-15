@@ -22,7 +22,7 @@ Decidi criar este portfólio para compartilhar projetos de ciência de dados na 
 ### Sobre Mim:
 Meu nome é Wesley Canaam, sou apaixonado por tecnologia, dados e viagens, possuo experiência de aproximadamente 4 anos em atividades práticas de coleta, preparação, análise de dados, construção de dashboards, modelagem estatística, machine learning e desenvolvimento de APIs. Também sou autor do *blog* [Cientista Nômade](www.cientistanomade.com.br), focado em Data Science, Deep Learning, Python e nomadismo digital. Trabalho e estudo enquanto viajo, ofereço talento através de soluções tecnológicas e ajudo empresas/pessoas a alcançarem os seus objetivos de forma mais inteligente.
 
-#### Formação Acadêmica
+### Formação Acadêmica
 
 * Graduação em Análise e Desenvolvimento de Sistemas pela Unigranrio.
 * Pós-Graduação em Engenharia de Software pela Estácio.
