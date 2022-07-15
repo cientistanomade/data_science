@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/cauthor-fulano-red.svg)](https://www.linkedin.com/in/canaam-cientistadedados/)
 [![](https://img.shields.io/badge/python-3.7+-brightgreen.svg)](https://www.python.org/downloads/release/python-365/)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://perso.crans.org/besson/LICENSE.html)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-blue.svg?style=flat)]()
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-blue.svg?style=flat)](https://github.com/cientistanomade/portfolio-data-science/issues)
 
 
 # Portfólio de Data Science
