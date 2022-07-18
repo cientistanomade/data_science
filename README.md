@@ -14,8 +14,8 @@ Decidi criar este portfólio para compartilhar projetos de ciência de dados na 
 
 ## Projetos:
 
-* **Projeto 1:** [Nome do Projeto 1](https://www.linkedin.com/in/canaam-cientistadedados/)
-* **Projeto 2:** [Nome do Projeto 2](https://www.linkedin.com/in/canaam-cientistadedados/)
+* **Projeto 1:** [Análise dos Dados do Airbnb - Rio de Janeiro - 2022](https://github.com/cientistanomade/data_science/blob/main/Airbnb_Rio_de_Janeiro.ipynb)
+
 
 ---
 
