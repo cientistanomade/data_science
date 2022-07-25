@@ -10,7 +10,7 @@ Atualmente atuo na área de produtos bancários e previdência, onde meu objetiv
 Decidi criar este portfólio para compartilhar projetos de ciência de dados na área financeira, saúde, marketing e notebooks sobre alguns assuntos que estudo no dia a dia.  
 
 * [LinkedIn](https://www.linkedin.com/in/canaam-cientistadedados/)
-* [Blog](www.cientistanomade.com.br)
+* [Blog](https://www.cientistanomade.com.br/)
 
 ## Projetos:
 
@@ -21,7 +21,7 @@ Decidi criar este portfólio para compartilhar projetos de ciência de dados na 
 ---
 
 ### Sobre Mim:
-Meu nome é Wesley Canaam, sou apaixonado por tecnologia, dados e viagens, possuo experiência de aproximadamente 4 anos em atividades práticas de coleta, preparação, análise de dados, construção de dashboards, modelagem estatística, machine learning e desenvolvimento de APIs. Também sou autor do *blog* [Cientista Nômade](www.cientistanomade.com.br), focado em Data Science, Deep Learning, Python e nomadismo digital. Trabalho e estudo enquanto viajo, ofereço talento através de soluções tecnológicas e ajudo empresas/pessoas a alcançarem os seus objetivos de forma mais inteligente.
+Meu nome é Wesley Canaam, sou apaixonado por tecnologia, dados e viagens, possuo experiência de aproximadamente 4 anos em atividades práticas de coleta, preparação, análise de dados, construção de dashboards, modelagem estatística, machine learning e desenvolvimento de APIs. Também sou autor do *blog* [Cientista Nômade](https://www.cientistanomade.com.br/), focado em Data Science, Deep Learning, Python e nomadismo digital. Trabalho e estudo enquanto viajo, ofereço talento através de soluções tecnológicas e ajudo empresas/pessoas a alcançarem os seus objetivos de forma mais inteligente.
 
 #### Formação Acadêmica
 
