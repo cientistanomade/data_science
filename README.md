@@ -17,6 +17,7 @@ Decidi criar este portfólio para compartilhar projetos de ciência de dados na 
 * **Projeto 1:** [Análise dos Dados do Airbnb - Rio de Janeiro - 2022](https://github.com/cientistanomade/data_science/blob/main/Airbnb_Rio_de_Janeiro.ipynb)
 * **Projeto 2:** [Segmentação de Clientes de Food Delivery](https://github.com/cientistanomade/data_science/blob/main/Segmenta%C3%A7%C3%A3o_de_Clientes_de_Food_Delivery.ipynb)
 * **Projeto 3:** [Análise de Indicadores de Performance](https://github.com/cientistanomade/data_science/blob/main/Analise_de_Indicadores_de_Performance.ipynb)
+* **Projeto 4:** [Análise dos Dados dos Pacientes que Desenvolveram Diabetes](https://github.com/cientistanomade/data_science/blob/cientistanomade-patch-1/Analise_dos_pacientes_que_desenvolveram_diabetes.ipynb)
 
 
 
